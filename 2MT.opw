@@ -1,0 +1,23 @@
+[RESOURCES]
+Resource 3
+Molino1
+Molino2
+[VARIABLES]
+Decide 3.NumberOut True
+Process 1.NumberOut
+RestFabrica
+MaizArconPA
+MaizArconPC
+Decide 4.NumberOut True
+Decide 3.NumberOut False
+CapArconPAMaiz
+Decide 1.NumberOut True
+Decide 4.NumberOut False
+Create 1.NumberOut
+CapArconPCMaiz
+Decide 5.NumberOut True
+Decide 5.NumberOut False
+Decide 1.NumberOut False
+Process 1.NumberIn
+Decide 6.NumberOut True
+Decide 6.NumberOut False
