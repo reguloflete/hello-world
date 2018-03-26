@@ -1,0 +1,341 @@
+SIMAN Run Controller.
+
+0.00016666667 Hours>SIMAN Run Controller.
+
+0.26683333 Hours>
+                                      ARENA Simulation Results
+                                   Regulo A - License: 7328734345
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date :10/31/2016
+Analyst: Rockwell Automation                                         Model revision date:10/31/2016
+
+Replication ended at time      : 0.26683333 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                                 --         --         --         --          0
+Entity 1.NVATime                                --         --         --         --          0
+Entity 1.WaitTime                               --         --         --         --          0
+Entity 1.TranTime                               --         --         --         --          0
+Entity 1.OtherTime                              --         --         --         --          0
+Entity 1.TotalTime                              --         --         --         --          0
+Entity 2.VATime                                 --         --         --         --          0
+Entity 2.NVATime                                --         --         --         --          0
+Entity 2.WaitTime                               --         --         --         --          0
+Entity 2.TranTime                               --         --         --         --          0
+Entity 2.OtherTime                              --         --         --         --          0
+Entity 2.TotalTime                              --         --         --         --          0
+Batch 7.Queue.WaitingTime                   .00000     (Insuf)    .00000     .00000        312    
+Hold 60.Queue.WaitingTime                       --         --         --         --          0
+Hold 110.Queue.WaitingTime                      --         --         --         --          0
+Hold 136.Queue.WaitingTime                      --         --         --         --          0
+Process 23.Queue.WaitingTime                .00000     (Insuf)    .00000     .00000          5    
+Hold 103.Queue.WaitingTime                      --         --         --         --          0
+Batch 22.Queue.WaitingTime                      --         --         --         --          0
+Hold 99.Queue.WaitingTime                       --         --         --         --          0
+Hold 32.Queue.WaitingTime                       --         --         --         --          0
+Hold 58.Queue.WaitingTime                       --         --         --         --          0
+Hold 108.Queue.WaitingTime                      --         --         --         --          0
+Process 36.Queue.WaitingTime                    --         --         --         --          0
+Batch 27.Queue.WaitingTime                      --         --         --         --          0
+Hold 40.Queue.WaitingTime                       --         --         --         --          0
+Hold 116.Queue.WaitingTime                      --         --         --         --          0
+Hold 86.Queue.WaitingTime                   .00000     (Insuf)    .00000     .00000          5    
+Process 52.Queue.WaitingTime                    --         --         --         --          0
+Hold 94.Queue.WaitingTime                       --         --         --         --          0
+Hold 53.Queue.WaitingTime                       --         --         --         --          0
+Hold 61.Queue.WaitingTime                       --         --         --         --          0
+Hold 111.Queue.WaitingTime                      --         --         --         --          0
+Hold 137.Queue.WaitingTime                      --         --         --         --          0
+Process 24.Queue.WaitingTime                .12500     (Insuf)    .00000     .25000          6    
+Hold 25.Queue.WaitingTime                   .08317     (Insuf)    .08317     .08317         43    
+Hold 124.Queue.WaitingTime                  .00000     (Insuf)    .00000     .00000          5    
+Hold 109.Queue.WaitingTime                      --         --         --         --          0
+Process 37.Queue.WaitingTime                    --         --         --         --          0
+Hold 38.Queue.WaitingTime                   .16650     (Insuf)    .16650     .16650         88    
+Hold 140.Queue.WaitingTime                      --         --         --         --          0
+Match 7.Queue1.WaitingTime                  .06811     (Insuf)    .00000     .08333        104    
+Match 7.Queue2.WaitingTime                  .00480     (Insuf)    .00000     .16650        104    
+Match 7.Queue3.WaitingTime                  .20899     (Insuf)    .00000     .24983        104    
+Hold 54.Queue.WaitingTime                       --         --         --         --          0
+Hold 104.Queue.WaitingTime                      --         --         --         --          0
+Process 32.Queue.WaitingTime                .03333     (Insuf)    .00000     .06667          3    
+Batch 23.Queue.WaitingTime                      --         --         --         --          0
+Hold 62.Queue.WaitingTime                       --         --         --         --          0
+Hold 112.Queue.WaitingTime                      --         --         --         --          0
+Hold 59.Queue.WaitingTime                       --         --         --         --          0
+Process 25.Queue.WaitingTime                .00000     (Insuf)    .00000     .00000          5    
+Batch 16.Queue.WaitingTime                      --         --         --         --          0
+Hold 120.Queue.WaitingTime                      --         --         --         --          0
+Hold 26.Queue.WaitingTime                   .08317     (Insuf)    .08317     .08317         19    
+Hold 117.Queue.WaitingTime                      --         --         --         --          0
+Hold 34.Queue.WaitingTime                       --         --         --         --          0
+Process 53.Queue.WaitingTime                    --         --         --         --          0
+Hold 133.Queue.WaitingTime                      --         --         --         --          0
+Hold 39.Queue.WaitingTime                   .24983     (Insuf)    .24983     .24983         85    
+Batch 11.Queue.WaitingTime                  .00937     (Insuf)    .00000     .05000         16    
+Hold 138.Queue.WaitingTime                      --         --         --         --          0
+Hold 55.Queue.WaitingTime                       --         --         --         --          0
+Hold 105.Queue.WaitingTime                      --         --         --         --          0
+Process 33.Queue.WaitingTime                .06667     (Insuf)    .00000     .11667          3    
+Batch 24.Queue.WaitingTime                      --         --         --         --          0
+Hold 113.Queue.WaitingTime                      --         --         --         --          0
+Process 1.Queue.WaitingTime                     --         --         --         --          0
+Hold 83.Queue.WaitingTime                   .00000     (Insuf)    .00000     .00000          1    
+Hold 42.Queue.WaitingTime                       --         --         --         --          0
+Hold 27.Queue.WaitingTime                       --         --         --         --          0
+Hold 118.Queue.WaitingTime                      --         --         --         --          0
+Hold 50.Queue.WaitingTime                   .00000     (Insuf)    .00000     .00000         16    
+Hold 141.Queue.WaitingTime                      --         --         --         --          0
+Hold 100.Queue.WaitingTime                      --         --         --         --          0
+Batch 12.Queue.WaitingTime                  .00667     (Insuf)    .00000     .05000         15    
+Hold 63.Queue.WaitingTime                       --         --         --         --          0
+Hold 48.Queue.WaitingTime                   .00000     (Insuf)    .00000     .00000         16    
+Hold 139.Queue.WaitingTime                      --         --         --         --          0
+Process 26.Queue.WaitingTime                .00000     (Insuf)    .00000     .00000          4    
+Batch 17.Queue.WaitingTime                      --         --         --         --          0
+Hold 121.Queue.WaitingTime                      --         --         --         --          0
+Hold 106.Queue.WaitingTime                      --         --         --         --          0
+Process 34.Queue.WaitingTime                    --         --         --         --          0
+Batch 25.Queue.WaitingTime                      --         --         --         --          0
+Process 2.Queue.WaitingTime                     --         --         --         --          0
+Hold 84.Queue.WaitingTime                   .00000     (Insuf)    .00000     .00000          5    
+Hold 134.Queue.WaitingTime                      --         --         --         --          0
+Hold 119.Queue.WaitingTime                      --         --         --         --          0
+Hold 92.Queue.WaitingTime                       --         --         --         --          0
+Hold 51.Queue.WaitingTime                   .02877     (Insuf)    .00000     .08017          8    
+Hold 142.Queue.WaitingTime                      --         --         --         --          0
+Hold 101.Queue.WaitingTime                      --         --         --         --          0
+Batch 20.Queue.WaitingTime                      --         --         --         --          0
+Hold 56.Queue.WaitingTime                   .00000     (Insuf)    .00000     .00000          1    
+Hold 114.Queue.WaitingTime                      --         --         --         --          0
+Process 27.Queue.WaitingTime                .04167     (Insuf)    .00000     .08333          2    
+Batch 18.Queue.WaitingTime                      --         --         --         --          0
+Hold 31.Queue.WaitingTime                       --         --         --         --          0
+Hold 122.Queue.WaitingTime                      --         --         --         --          0
+Batch 26.Queue.WaitingTime                      --         --         --         --          0
+Batch 6.Queue.WaitingTime                   .00000     (Insuf)    .00000     .00000        177    
+Hold 135.Queue.WaitingTime                      --         --         --         --          0
+Process 22.Queue.WaitingTime                .12500     (Insuf)    .00000     .25000          6    
+Batch 13.Queue.WaitingTime                      --         --         --         --          0
+Hold 143.Queue.WaitingTime                      --         --         --         --          0
+Hold 102.Queue.WaitingTime                      --         --         --         --          0
+Hold 49.Queue.WaitingTime                   .02557     (Insuf)    .00000     .08017          9    
+Batch 21.Queue.WaitingTime                      --         --         --         --          0
+Hold 98.Queue.WaitingTime                       --         --         --         --          0
+Hold 57.Queue.WaitingTime                   .00000     (Insuf)    .00000     .00000          2    
+Hold 107.Queue.WaitingTime                      --         --         --         --          0
+Hold 115.Queue.WaitingTime                  .00000     (Insuf)    .00000     .00000          4    
+Process 28.Queue.WaitingTime                .08333     (Insuf)    .08333     .08333          2    
+Match 6.Queue1.WaitingTime                  .00000     (Insuf)    .00000     .00000         59    
+Match 6.Queue2.WaitingTime                  .03383     (Insuf)    .00000     .08317         59    
+Match 6.Queue3.WaitingTime                  .06061     (Insuf)    .00000     .08317         59    
+Batch 19.Queue.WaitingTime                      --         --         --         --          0
+Hold 123.Queue.WaitingTime                      --         --         --         --          0
+Hold 93.Queue.WaitingTime                       --         --         --         --          0
+Hold 52.Queue.WaitingTime                       --         --         --         --          0
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+CapArconPASoya Value                        50.434     (Insuf)    50.434     50.434     50.434    
+CapArconPAMaiz Value                        47.645     (Insuf)    47.645     47.645     47.645    
+CapArconPAFrijol Value                      48.707     (Insuf)    48.707     48.707     48.707    
+Entity 1.WIP                                580.93     (Insuf)    .00000     707.00     707.00    
+Entity 2.WIP                                .00000     (Insuf)    .00000     .00000     .00000    
+Mezcladora1.NumberBusy                      .81199     (Insuf)    .00000     1.0000     1.0000    
+Mezcladora1.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Mezcladora1.Utilization                     .81199     (Insuf)    .00000     1.0000     1.0000    
+Mezcladora2.NumberBusy                      .81199     (Insuf)    .00000     1.0000     1.0000    
+Mezcladora2.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Mezcladora2.Utilization                     .81199     (Insuf)    .00000     1.0000     1.0000    
+Balanza1.NumberBusy                         .99938     (Insuf)    .00000     1.0000     1.0000    
+Balanza1.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Balanza1.Utilization                        .99938     (Insuf)    .00000     1.0000     1.0000    
+balanza2.NumberBusy                         .99938     (Insuf)    .00000     1.0000     1.0000    
+balanza2.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+balanza2.Utilization                        .99938     (Insuf)    .00000     1.0000     1.0000    
+Resource 3.NumberBusy                       .00000     (Insuf)    .00000     .00000     .00000    
+InspeccionF.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+InspeccionF.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+InspeccionF.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+InspeccionQ.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+InspeccionQ.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+InspeccionQ.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Pellet 16.NumberBusy                        .62461     (Insuf)    .00000     1.0000     1.0000    
+Pellet 16.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Pellet 16.Utilization                       .62461     (Insuf)    .00000     1.0000     1.0000    
+Pellet 17.NumberBusy                        .62461     (Insuf)    .00000     1.0000     1.0000    
+Pellet 17.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Pellet 17.Utilization                       .62461     (Insuf)    .00000     1.0000     1.0000    
+Llenado.NumberBusy                          .00000     (Insuf)    .00000     .00000     .00000    
+Llenado.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Llenado.Utilization                         .00000     (Insuf)    .00000     .00000     .00000    
+Molino1.NumberBusy                          1.0000     (Insuf)    .00000     1.0000     1.0000    
+Molino1.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Molino1.Utilization                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Molino2.NumberBusy                          .62461     (Insuf)    .00000     1.0000     .00000    
+Molino3.NumberBusy                          1.0000     (Insuf)    .00000     1.0000     1.0000    
+Molino3.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Molino3.Utilization                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Pellet 67.NumberBusy                        .00000     (Insuf)    .00000     .00000     .00000    
+Pellet 67.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Pellet 67.Utilization                       .00000     (Insuf)    .00000     .00000     .00000    
+Batch 7.Queue.NumberInQueue                 .00000     (Insuf)    .00000     3.0000     .00000    
+Hold 60.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+Hold 110.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 136.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Process 23.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+Hold 103.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Batch 22.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 99.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+Hold 32.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+Hold 58.Queue.NumberInQueue                 .62461     (Insuf)    .00000     4.0000     4.0000    
+Hold 108.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Process 36.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+Batch 27.Queue.NumberInQueue                .93691     (Insuf)    .00000     5.0000     5.0000    
+Hold 40.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+Hold 116.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 86.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+Process 52.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+Hold 94.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+Hold 53.Queue.NumberInQueue                 .92505     (Insuf)    .00000     1.0000     1.0000    
+Hold 61.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+Hold 111.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 137.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Process 24.Queue.NumberInQueue              19.292     (Insuf)    .00000     99.000     98.000    
+Hold 25.Queue.NumberInQueue                 13.402     (Insuf)    .00000     43.000     .00000    
+Hold 124.Queue.NumberInQueue                .00000     (Insuf)    .00000     1.0000     1.0000    
+Hold 109.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Process 37.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+Hold 38.Queue.NumberInQueue                 54.910     (Insuf)    .00000     88.000     .00000    
+Hold 140.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Match 7.Queue1.NumberInQueue                26.545     (Insuf)    .00000     85.000     .00000    
+Match 7.Queue2.NumberInQueue                1.8719     (Insuf)    .00000     3.0000     .00000    
+Match 7.Queue3.NumberInQueue                81.456     (Insuf)    .00000     88.000     .00000    
+Hold 54.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+Hold 104.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Process 32.Queue.NumberInQueue              .99938     (Insuf)    .00000     5.0000     4.0000    
+Batch 23.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 62.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+Hold 112.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 59.Queue.NumberInQueue                 .93691     (Insuf)    .00000     5.0000     5.0000    
+Process 25.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+Batch 16.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 120.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 26.Queue.NumberInQueue                 5.9219     (Insuf)    .00000     19.000     .00000    
+Hold 117.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 34.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+Process 53.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+Hold 133.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 39.Queue.NumberInQueue                 79.584     (Insuf)    .00000     85.000     .00000    
+Batch 11.Queue.NumberInQueue                .56215     (Insuf)    .00000     3.0000     .00000    
+Hold 138.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 55.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+Hold 105.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Process 33.Queue.NumberInQueue              1.3741     (Insuf)    .00000     5.0000     4.0000    
+Batch 24.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 113.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Process 1.Queue.NumberInQueue               .00000     (Insuf)    .00000     .00000     .00000    
+Hold 83.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+Hold 42.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+Hold 27.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+Hold 118.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 50.Queue.NumberInQueue                 .00000     (Insuf)    .00000     4.0000     .00000    
+Hold 141.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 100.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Batch 12.Queue.NumberInQueue                .43723     (Insuf)    .00000     3.0000     1.0000    
+Hold 63.Queue.NumberInQueue                 5.0000     (Insuf)    .00000     5.0000     5.0000    
+Hold 48.Queue.NumberInQueue                 .00000     (Insuf)    .00000     4.0000     .00000    
+Hold 139.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Process 26.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+Batch 17.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 121.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 106.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Process 34.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+Batch 25.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Process 2.Queue.NumberInQueue               .00000     (Insuf)    .00000     .00000     .00000    
+Hold 84.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+Hold 134.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 119.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 92.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+Hold 51.Queue.NumberInQueue                 .92505     (Insuf)    .00000     1.0000     1.0000    
+Hold 142.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 101.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Batch 20.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 56.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+Hold 114.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Process 27.Queue.NumberInQueue              .37539     (Insuf)    .00000     1.0000     1.0000    
+Batch 18.Queue.NumberInQueue                .62461     (Insuf)    .00000     4.0000     4.0000    
+Hold 31.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+Hold 122.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Batch 26.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Batch 6.Queue.NumberInQueue                 .00000     (Insuf)    .00000     3.0000     .00000    
+Hold 135.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Process 22.Queue.NumberInQueue              42.375     (Insuf)    .00000     57.000     53.000    
+Batch 13.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 143.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 102.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 49.Queue.NumberInQueue                 .92505     (Insuf)    .00000     1.0000     1.0000    
+Batch 21.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 98.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+Hold 57.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+Hold 107.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 115.Queue.NumberInQueue                .00000     (Insuf)    .00000     1.0000     .00000    
+Process 28.Queue.NumberInQueue              .62461     (Insuf)    .00000     1.0000     .00000    
+Match 6.Queue1.NumberInQueue                .00000     (Insuf)    .00000     1.0000     .00000    
+Match 6.Queue2.NumberInQueue                7.4803     (Insuf)    .00000     25.000     .00000    
+Match 6.Queue3.NumberInQueue                13.402     (Insuf)    .00000     43.000     .00000    
+Batch 19.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 123.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 93.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+Hold 52.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           711.00    
+Entity 1.NumberOut                          4.0000    
+Entity 2.NumberIn                           .00000    
+Entity 2.NumberOut                          .00000    
+Mezcladora1.NumberSeized                    5.0000    
+Mezcladora1.ScheduledUtilization            .81199    
+Mezcladora2.NumberSeized                    5.0000    
+Mezcladora2.ScheduledUtilization            .81199    
+Balanza1.NumberSeized                       6.0000    
+Balanza1.ScheduledUtilization               .99938    
+balanza2.NumberSeized                       6.0000    
+balanza2.ScheduledUtilization               .99938    
+Resource 3.NumberSeized                     .00000    
+InspeccionF.NumberSeized                    .00000    
+InspeccionF.ScheduledUtilization            .00000    
+InspeccionQ.NumberSeized                    .00000    
+InspeccionQ.ScheduledUtilization            .00000    
+Pellet 16.NumberSeized                      3.0000    
+Pellet 16.ScheduledUtilization              .62461    
+Pellet 17.NumberSeized                      3.0000    
+Pellet 17.ScheduledUtilization              .62461    
+Llenado.NumberSeized                        .00000    
+Llenado.ScheduledUtilization                .00000    
+Molino1.NumberSeized                        4.0000    
+Molino1.ScheduledUtilization                1.0000    
+Molino2.NumberSeized                        2.0000    
+Molino3.NumberSeized                        4.0000    
+Molino3.ScheduledUtilization                1.0000    
+Pellet 67.NumberSeized                      .00000    
+Pellet 67.ScheduledUtilization              .00000    
+System.NumberOut                            .00000    
+
+
+Simulation run time: 1.05 minutes.
+Simulation run complete.

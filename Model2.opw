@@ -16,13 +16,12 @@ SoyaS
 Produc3S
 Create 1.NumberOut
 CapSsoya
-Separate 1.NumberOut Dup
 Process 2.NumberOut
 Decide 2.NumberOut True
 CapAproduc3
 CapSproduc3
 CapAsoya
+Create 3.NumberOut
 Decide 1.NumberOut False
 CapSmaiz
 Process 1.NumberIn
-Separate 1.NumberOut Orig

@@ -1,6 +1,6 @@
 SIMAN Run Controller.
 
-0.33333333 Hours>
+0.66666667 Hours>
                                       ARENA Simulation Results
                                    Regulo A - License: 7328734345
 
@@ -9,7 +9,7 @@ SIMAN Run Controller.
 Project: Unnamed Project                                             Run execution date :10/18/2016
 Analyst: Rockwell Automation                                         Model revision date:10/18/2016
 
-Replication ended at time      : 0.33333333 Hours 
+Replication ended at time      : 0.66666667 Hours 
 Base Time Units: Hours
 
                                            TALLY VARIABLES
@@ -29,23 +29,23 @@ Entity 2.WaitTime                               --         --         --        
 Entity 2.TranTime                               --         --         --         --          0
 Entity 2.OtherTime                              --         --         --         --          0
 Entity 2.TotalTime                              --         --         --         --          0
-Process 1.Queue.WaitingTime                 .00000     (Insuf)    .00000     .00000          4    
-Hold 1.Queue.WaitingTime                    .00000     (Insuf)    .00000     .00000          3    
-Process 2.Queue.WaitingTime                 .00000     (Insuf)    .00000     .00000          4    
-Hold 2.Queue.WaitingTime                    .00000     (Insuf)    .00000     .00000          3    
+Process 1.Queue.WaitingTime                 .00000     (Insuf)    .00000     .00000          8    
+Hold 1.Queue.WaitingTime                    .00000     (Insuf)    .00000     .00000          7    
+Process 2.Queue.WaitingTime                 .00000     (Insuf)    .00000     .00000          9    
+Hold 2.Queue.WaitingTime                    .00000     (Insuf)    .00000     .00000          8    
 
                                      DISCRETE-CHANGE VARIABLES
 
 Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
 ___________________________________________________________________________________________________
 
-Entity 1.WIP                                2.0000     (Insuf)    .00000     2.0000     2.0000    
-Entity 2.WIP                                .00000     (Insuf)    .00000     .00000     .00000    
+Entity 1.WIP                                1.0000     (Insuf)    .00000     1.0000     1.0000    
+Entity 2.WIP                                1.0000     (Insuf)    .00000     1.0000     1.0000    
 Resource 3.NumberBusy                       .00000     (Insuf)    .00000     .00000     .00000    
-Molino1.NumberBusy                          2.0000     (Insuf)    .00000     2.0000     2.0000    
+Molino1.NumberBusy                          1.0000     (Insuf)    .00000     1.0000     1.0000    
 Molino1.NumberScheduled                     2.0000     (Insuf)    2.0000     2.0000     2.0000    
-Molino1.Utilization                         1.0000     (Insuf)    .00000     1.0000     1.0000    
-Molino2.NumberBusy                          .00000     (Insuf)    .00000     .00000     .00000    
+Molino1.Utilization                         .50000     (Insuf)    .00000     .50000     .50000    
+Molino2.NumberBusy                          1.0000     (Insuf)    .00000     1.0000     1.0000    
 Process 1.Queue.NumberInQueue               .00000     (Insuf)    .00000     .00000     .00000    
 Hold 1.Queue.NumberInQueue                  .00000     (Insuf)    .00000     .00000     .00000    
 Process 2.Queue.NumberInQueue               .00000     (Insuf)    .00000     .00000     .00000    
@@ -56,16 +56,16 @@ Hold 2.Queue.NumberInQueue                  .00000     (Insuf)    .00000     .00
 Identifier                                   Value
 _____________________________________________________________
 
-Entity 1.NumberIn                           2.0000    
+Entity 1.NumberIn                           1.0000    
 Entity 1.NumberOut                          .00000    
-Entity 2.NumberIn                           .00000    
+Entity 2.NumberIn                           1.0000    
 Entity 2.NumberOut                          .00000    
 Resource 3.NumberSeized                     .00000    
 Molino1.NumberSeized                        8.0000    
-Molino1.ScheduledUtilization                1.0000    
-Molino2.NumberSeized                        .00000    
+Molino1.ScheduledUtilization                .50000    
+Molino2.NumberSeized                        9.0000    
 System.NumberOut                            .00000    
 
 
-Simulation run time: 0.33 minutes.
+Simulation run time: 2.07 minutes.
 Simulation run complete.
