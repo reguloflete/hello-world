@@ -1,0 +1,10 @@
+[RESOURCES]
+Resource 1
+[VARIABLES]
+Process 1.NumberOut
+Process 2.NumberIn
+Create 1.NumberOut
+Separate 1.NumberOut Dup
+Process 2.NumberOut
+Process 1.NumberIn
+Separate 1.NumberOut Orig

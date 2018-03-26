@@ -1,0 +1,61 @@
+[RESOURCES]
+Molino1
+Molino2
+Molino3
+[VARIABLES]
+Process 12.NumberOut
+Decide 10.NumberOut True
+Process 15.NumberOut
+Batch 1.NumberOut
+Separate 3.NumberOut Dup
+Process 1.NumberOut
+Process 13.NumberIn
+Process 15.NumberIn
+Decide 14.NumberOut True
+CapAMaiz
+Decide 13.NumberOut False
+Decide 7.NumberOut True
+Separate 2.NumberOut Orig
+Decide 7.NumberOut False
+Decide 11.NumberOut True
+Process 9.NumberOut
+Process 14.NumberOut
+CapAP3
+Decide 14.NumberOut False
+MaizA
+Decide 15.NumberOut True
+Dispose 1.NumberOut
+Process 8.NumberIn
+Decide 1.NumberOut True
+Decide 10.NumberOut False
+Create 7.NumberOut
+SoyaA
+Separate 3.NumberOut Orig
+Create 1.NumberOut
+CapSSoya
+Producto3Silo
+Decide 12.NumberOut True
+Process 12.NumberIn
+Process 14.NumberIn
+Process 8.NumberOut
+CapSP3
+Decide 15.NumberOut False
+SoyaSilo
+Decide 16.NumberOut True
+Process 13.NumberOut
+Decide 11.NumberOut False
+Create 6.NumberOut
+Create 9.NumberOut
+Separate 2.NumberOut Dup
+MaizSilo
+CapASoya
+Decide 13.NumberOut True
+Decide 1.NumberOut False
+Producto3A
+CapSMaiz
+Decide 12.NumberOut False
+Decide 16.NumberOut False
+Process 1.NumberIn
+Decide 6.NumberOut True
+Decide 6.NumberOut False
+Process 9.NumberIn

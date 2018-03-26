@@ -1,0 +1,102 @@
+
+                                      ARENA Simulation Results
+                                   Regulo A - License: 7328734345
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date :10/18/2016
+Analyst: Rockwell Automation                                         Model revision date:10/18/2016
+
+Replication ended at time      : 0.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                                 --         --         --         --          0
+Entity 1.NVATime                                --         --         --         --          0
+Entity 1.WaitTime                               --         --         --         --          0
+Entity 1.TranTime                               --         --         --         --          0
+Entity 1.OtherTime                              --         --         --         --          0
+Entity 1.TotalTime                              --         --         --         --          0
+Entity 2.VATime                                 --         --         --         --          0
+Entity 2.NVATime                                --         --         --         --          0
+Entity 2.WaitTime                               --         --         --         --          0
+Entity 2.TranTime                               --         --         --         --          0
+Entity 2.OtherTime                              --         --         --         --          0
+Entity 2.TotalTime                              --         --         --         --          0
+Entity 3.VATime                                 --         --         --         --          0
+Entity 3.NVATime                                --         --         --         --          0
+Entity 3.WaitTime                               --         --         --         --          0
+Entity 3.TranTime                               --         --         --         --          0
+Entity 3.OtherTime                              --         --         --         --          0
+Entity 3.TotalTime                              --         --         --         --          0
+Process 9.Queue.WaitingTime                     --         --         --         --          0
+Hold 9.Queue.WaitingTime                        --         --         --         --          0
+Process 1.Queue.WaitingTime                     --         --         --         --          0
+Hold 1.Queue.WaitingTime                        --         --         --         --          0
+Match 1.Queue1.WaitingTime                      --         --         --         --          0
+Match 1.Queue2.WaitingTime                      --         --         --         --          0
+Match 1.Queue3.WaitingTime                      --         --         --         --          0
+Hold 6.Queue.WaitingTime                        --         --         --         --          0
+Hold 10.Queue.WaitingTime                       --         --         --         --          0
+Hold 7.Queue.WaitingTime                        --         --         --         --          0
+Process 8.Queue.WaitingTime                     --         --         --         --          0
+Batch 1.Queue.WaitingTime                       --         --         --         --          0
+Hold 8.Queue.WaitingTime                        --         --         --         --          0
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                .00000     (Insuf)    .00000     .00000     .00000    
+Entity 2.WIP                                .00000     (Insuf)    .00000     .00000     .00000    
+Entity 3.WIP                                .00000     (Insuf)    .00000     .00000     .00000    
+Molino1.NumberBusy                          .00000     (Insuf)    .00000     .00000     .00000    
+Molino1.NumberScheduled                     .00000     (Insuf)    1.0000     1.0000     1.0000    
+Molino1.Utilization                         .00000     (Insuf)    .00000     .00000     .00000    
+Molino2.NumberBusy                          .00000     (Insuf)    .00000     .00000     .00000    
+Molino2.NumberScheduled                     .00000     (Insuf)    3.0000     3.0000     3.0000    
+Molino2.Utilization                         .00000     (Insuf)    .00000     .00000     .00000    
+Molino3.NumberBusy                          .00000     (Insuf)    .00000     .00000     .00000    
+Molino3.NumberScheduled                     .00000     (Insuf)    1.0000     1.0000     1.0000    
+Molino3.Utilization                         .00000     (Insuf)    .00000     .00000     .00000    
+Process 9.Queue.NumberInQueue               .00000     (Insuf)    .00000     .00000     .00000    
+Hold 9.Queue.NumberInQueue                  .00000     (Insuf)    .00000     .00000     .00000    
+Process 1.Queue.NumberInQueue               .00000     (Insuf)    .00000     .00000     .00000    
+Hold 1.Queue.NumberInQueue                  .00000     (Insuf)    .00000     .00000     .00000    
+Match 1.Queue1.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Match 1.Queue2.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Match 1.Queue3.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+Hold 6.Queue.NumberInQueue                  .00000     (Insuf)    .00000     .00000     .00000    
+Hold 10.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+Hold 7.Queue.NumberInQueue                  .00000     (Insuf)    .00000     .00000     .00000    
+Process 8.Queue.NumberInQueue               .00000     (Insuf)    .00000     .00000     .00000    
+Batch 1.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+Hold 8.Queue.NumberInQueue                  .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           .00000    
+Entity 1.NumberOut                          .00000    
+Entity 2.NumberIn                           .00000    
+Entity 2.NumberOut                          .00000    
+Entity 3.NumberIn                           .00000    
+Entity 3.NumberOut                          .00000    
+Molino1.NumberSeized                        .00000    
+Molino1.ScheduledUtilization                .00000    
+Molino2.NumberSeized                        .00000    
+Molino2.ScheduledUtilization                .00000    
+Molino3.NumberSeized                        .00000    
+Molino3.ScheduledUtilization                .00000    
+System.NumberOut                            .00000    
+
+
+Simulation run time: 0.00 minutes.
+Simulation run complete.

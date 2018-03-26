@@ -1,0 +1,14 @@
+[RESOURCES]
+Resource 1
+Resource 2
+Resource 3
+[VARIABLES]
+Process 1.NumberOut
+Create 2.NumberOut
+Process 3.NumberOut
+Process 2.NumberIn
+Create 1.NumberOut
+Process 2.NumberOut
+Create 3.NumberOut
+Process 1.NumberIn
+Process 3.NumberIn

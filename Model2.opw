@@ -1,0 +1,28 @@
+[RESOURCES]
+Resource 3
+Molino1
+Molino2
+[VARIABLES]
+Decide 2.NumberOut False
+Process 1.NumberOut
+CapAmaiz
+MaizA
+MaizS
+Process 2.NumberIn
+Decide 1.NumberOut True
+SoyaA
+Produc3A
+SoyaS
+Produc3S
+Create 1.NumberOut
+CapSsoya
+Separate 1.NumberOut Dup
+Process 2.NumberOut
+Decide 2.NumberOut True
+CapAproduc3
+CapSproduc3
+CapAsoya
+Decide 1.NumberOut False
+CapSmaiz
+Process 1.NumberIn
+Separate 1.NumberOut Orig
