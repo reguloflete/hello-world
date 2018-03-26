@@ -1,0 +1,389 @@
+[RESOURCES]
+Mezcladora1
+Mezcladora2
+Balanza1
+balanza2
+InspeccionF
+InspeccionQ
+Pellet 16
+Pellet 17
+Llenado
+Empaque1
+Empaque2
+Molino1
+Molino2
+Molino3
+Pellet 67
+[VARIABLES]
+Decide 202.NumberOut True
+Process 27.NumberOut
+Create 30.NumberOut
+Separate 13.NumberOut Orig
+Process 69.NumberOut
+Dispose 15.NumberOut
+Decide 176.NumberOut True
+Decide 190.NumberOut False
+NivelBin6T1
+Process 51.NumberOut
+Create 12.NumberOut
+Batch 18.NumberOut
+Decide 113.NumberOut False
+FabricaMezcladora1
+FabricaMezcladora2
+Decide 183.NumberOut False
+Process 33.NumberOut
+Process 73.NumberIn
+Dispose 18.NumberOut
+Process 54.NumberOut
+Create 15.NumberOut
+Process 75.NumberIn
+Process 75.NumberOut
+Process 77.NumberIn
+Decide 176.NumberOut False
+Decide 85.NumberOut True
+Process 36.NumberOut
+Process 79.NumberIn
+Decide 72.NumberOut True
+Separate 12.NumberOut Dup
+Decide 94.NumberOut True
+Dispose 24.NumberOut
+Decide 169.NumberOut False
+Process 60.NumberOut
+Create 21.NumberOut
+Decide 158.NumberOut False
+Batch 27.NumberOut
+Process 81.NumberOut
+Process 63.NumberOut
+Decide 94.NumberOut False
+Decide 182.NumberOut True
+Decide 83.NumberOut False
+Decide 191.NumberOut True
+Decide 206.NumberOut True
+Batch 33.NumberOut
+Decide 87.NumberOut False
+CapArconPASoya
+NivelBin1T1
+NivelBin1T2
+NivelBin1T3
+DifFrijolPA
+NivelBin1T4
+DifFrijolPC
+Decide 158.NumberOut True
+Separate 34.NumberOut Dup
+Process 45.NumberIn
+Batchesdepedido
+Process 47.NumberIn
+TipoProductBin4T1
+Process 49.NumberIn
+Batch 21.NumberOut
+TipoProductBin4T3
+TipoProductBin4T4
+Decide 209.NumberOut False
+Batch 24.NumberOut
+FabricaPellet67
+Decide 111.NumberOut True
+Decide 147.NumberOut False
+Batch 30.NumberOut
+Decide 173.NumberOut True
+Separate 30.NumberOut Dup
+Decide 195.NumberOut True
+Decide 195.NumberOut False
+MaizArconPA
+NivelBin7T1
+Decide 72.NumberOut False
+MaizArconPC
+Decide 118.NumberOut False
+Decide 109.NumberOut True
+Decide 118.NumberOut True
+Decide 188.NumberOut False
+Process 50.NumberIn
+Decide 177.NumberOut False
+Decide 82.NumberOut True
+Process 54.NumberIn
+Process 56.NumberIn
+Process 80.NumberIn
+Process 82.NumberIn
+Process 58.NumberIn
+Process 59.NumberOut
+Decide 89.NumberOut True
+Decide 88.NumberOut False
+Decide 203.NumberOut True
+Create 26.NumberOut
+Separate 14.NumberOut Orig
+NivelBin2T1
+NivelBin2T2
+Decide 177.NumberOut True
+CapArconPCSoya
+NivelBin2T3
+Process 26.NumberOut
+NivelBin2T4
+Separate 32.NumberOut Orig
+Process 47.NumberOut
+Decide 191.NumberOut False
+Process 68.NumberOut
+Create 29.NumberOut
+Decide 180.NumberOut False
+CantidadCargada
+NivelTolvaPellet67
+Decide 184.NumberOut False
+Process 22.NumberIn
+Separate 13.NumberOut Dup
+Decide 173.NumberOut False
+Process 24.NumberIn
+Decide 107.NumberOut False
+TipoProductBin5T1
+Decide 86.NumberOut True
+Process 32.NumberOut
+Dispose 17.NumberOut
+Process 26.NumberIn
+Create 14.NumberOut
+Process 28.NumberIn
+Process 74.NumberOut
+Decide 166.NumberOut False
+Process 56.NumberOut
+entero
+Process 77.NumberOut
+Create 20.NumberOut
+Process 38.NumberOut
+Process 80.NumberOut
+Decide 183.NumberOut True
+Decide 84.NumberOut False
+Decide 192.NumberOut True
+Decide 207.NumberOut True
+Dispose 26.NumberOut
+Process 62.NumberOut
+Create 23.NumberOut
+Batch 6.NumberOut
+Batch 29.NumberOut
+NivelBin8T1
+Process 23.NumberOut
+Separate 27.NumberOut Orig
+Decide 66.NumberOut False
+Process 65.NumberOut
+Separate 27.NumberOut Dup
+Process 33.NumberIn
+Process 50.NumberOut
+Decide 68.NumberOut True
+Batch 17.NumberOut
+Process 37.NumberIn
+Process 61.NumberIn
+Decide 206.NumberOut False
+CapArconPAMaiz
+Process 63.NumberIn
+Process 39.NumberIn
+Batch 20.NumberOut
+Process 65.NumberIn
+Process 67.NumberIn
+Dispose 20.NumberOut
+Process 69.NumberIn
+Batch 23.NumberOut
+Separate 31.NumberOut Dup
+Decide 112.NumberOut True
+Separate 11.NumberOut Orig
+Separate 14.NumberOut Dup
+Decide 174.NumberOut True
+Decide 80.NumberOut False
+Decide 192.NumberOut False
+Batch 26.NumberOut
+NivelBin3T1
+TipoProductPellet16
+NivelBin3T3
+TipoProductPellet17
+NivelBin3T4
+Turno1
+Turno2
+Turno3
+DifSoyaPA
+Decide 108.NumberOut False
+DifSoyaPC
+Decide 83.NumberOut True
+Batch 32.NumberOut
+TipoProductBin6T1
+Decide 70.NumberOut True
+Decide 92.NumberOut True
+Decide 202.NumberOut False
+Process 74.NumberIn
+NivelTolvaEmp1
+PedidoListo1
+Decide 180.NumberOut True
+NivelTolvaEmp2
+PedidoListo2
+Process 76.NumberIn
+PedidoListo3
+PedidoListo4
+PedidoListo5
+Process 78.NumberIn
+PedidoListo6
+PedidoListo7
+Decide 89.NumberOut False
+PedidoListo8
+PedidoListo9
+Decide 147.NumberOut True
+Separate 33.NumberOut Orig
+Decide 111.NumberOut False
+Decide 181.NumberOut False
+DifMaizPA
+DifMaizPC
+TipoProductBin1T1
+TipoProductBin1T2
+TipoProductBin1T3
+Decide 174.NumberOut False
+Decide 87.NumberOut True
+TipoProductBin1T4
+Process 28.NumberOut
+Separate 32.NumberOut Dup
+Process 49.NumberOut
+CapArconPCMaiz
+Process 34.NumberOut
+Dispose 19.NumberOut
+Process 46.NumberIn
+Decide 92.NumberOut False
+Process 55.NumberOut
+Separate 30.NumberOut Orig
+Decide 184.NumberOut True
+Decide 81.NumberOut False
+Process 76.NumberOut
+RendimientoPellet16
+Decide 193.NumberOut True
+RendimientoPellet17
+Decide 208.NumberOut True
+Process 37.NumberOut
+Decide 85.NumberOut False
+NivelBin4T1
+Create 19.NumberOut
+Process 58.NumberOut
+Dispose 9.NumberOut
+NivelBin4T3
+Decide 107.NumberOut True
+Process 79.NumberOut
+NivelBin4T4
+Separate 28.NumberOut Orig
+Dispose 25.NumberOut
+Create 22.NumberOut
+Process 82.NumberOut
+Decide 179.NumberOut False
+Decide 169.NumberOut True
+Separate 28.NumberOut Dup
+Decide 80.NumberOut True
+Process 22.NumberOut
+Process 64.NumberOut
+Create 25.NumberOut
+TipoProductBin7T1
+Process 25.NumberOut
+Process 46.NumberOut
+Decide 203.NumberOut False
+Process 67.NumberOut
+FrijolArconPA
+Decide 207.NumberOut False
+Batch 16.NumberOut
+Create 31.NumberOut
+Process 51.NumberIn
+PedidoListo10
+Dispose 16.NumberOut
+PedidoListo11
+PedidoListo12
+Create 13.NumberOut
+Process 55.NumberIn
+Decide 113.NumberOut True
+Batch 19.NumberOut
+Process 73.NumberOut
+Separate 12.NumberOut Orig
+Process 81.NumberIn
+Decide 166.NumberOut True
+Process 57.NumberIn
+Decide 175.NumberOut True
+Process 59.NumberIn
+TipoProductTolvaEmp1
+TipoProductTolvaEmp2
+Decide 193.NumberOut False
+Decide 182.NumberOut False
+Decide 70.NumberOut False
+Dispose 22.NumberOut
+Batch 25.NumberOut
+Decide 175.NumberOut False
+Decide 109.NumberOut False
+Decide 84.NumberOut True
+TipoProductBin2T1
+Process 61.NumberOut
+TipoProductBin2T2
+Batch 28.NumberOut
+TipoProductBin2T3
+Decide 93.NumberOut True
+TipoProductBin2T4
+TonAcargar10
+TonAcargar11
+Resto1
+TonAcargar12
+Resto2
+Batch 31.NumberOut
+Decide 93.NumberOut False
+TipoProductPellet67
+Decide 181.NumberOut True
+SoyaArconPA
+Process 23.NumberIn
+CapArconPAFrijol
+SoyaArconPC
+Decide 86.NumberOut False
+Decide 190.NumberOut True
+Process 25.NumberIn
+Process 27.NumberIn
+FabricaPellet16
+FabricaPellet17
+NivelBin5T1
+Decide 79.NumberOut False
+Decide 179.NumberOut True
+Decide 68.NumberOut False
+Separate 34.NumberOut Orig
+Decide 188.NumberOut True
+Batch 22.NumberOut
+Decide 112.NumberOut False
+Separate 33.NumberOut Dup
+TipoProductBin8T1
+Decide 88.NumberOut True
+Decide 66.NumberOut True
+Decide 208.NumberOut False
+Separate 11.NumberOut Dup
+Separate 31.NumberOut Orig
+Process 32.NumberIn
+Decide 82.NumberOut False
+Decide 194.NumberOut False
+Decide 194.NumberOut True
+Process 34.NumberIn
+Decide 209.NumberOut True
+Process 60.NumberIn
+Process 36.NumberIn
+Process 62.NumberIn
+Process 38.NumberIn
+Numpedidos
+Separate 29.NumberOut Dup
+Decide 108.NumberOut True
+Process 64.NumberIn
+Separate 29.NumberOut Orig
+Process 66.NumberIn
+Process 57.NumberOut
+Process 68.NumberIn
+Process 78.NumberOut
+Decide 81.NumberOut True
+TonAcargar1
+TipoProductBin3T1
+Process 39.NumberOut
+TonAcargar2
+TipoProductBin3T3
+TonAcargar3
+TipoProductBin3T4
+TonAcargar4
+TonAcargar5
+TonAcargar6
+TonAcargar7
+TonAcargar8
+Create 24.NumberOut
+TonAcargar9
+RendimientoPellet67
+Decide 79.NumberOut True
+Batch 7.NumberOut
+NivelTolvaPellet16
+NivelTolvaPellet17
+Process 24.NumberOut
+Process 45.NumberOut
+Create 27.NumberOut
+Process 66.NumberOut
